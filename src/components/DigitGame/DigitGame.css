@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.form {
+	width: 250px;
+	height: 83px;
+  margin: 20% auto;
+}
